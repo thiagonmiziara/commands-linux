@@ -23,4 +23,4 @@
 - `top` Para ver os processos abertos 
     - `htop` Para ver os processos abertos e fecha-los
 - `apt-get install` Para instalar progamas pelo terminal
-
+........
