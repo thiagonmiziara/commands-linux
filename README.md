@@ -1,5 +1,5 @@
 # Command-linux 
-![Linux](https://lh3.googleusercontent.com/proxy/8Bmtj976y9Zw40-SgaLlpKGIf3HuATIg6-1ihgK0VH3renvjBSV9zB1M8o-TZgGl5h7oqjpijw7fGNwxiW9QRKic5GD7aZ6jASc7_SBTkk_KrDt4Nra6-Xi_gMfIEPjEfH9I)
+
 
 - `cd`  Navegue pelo sistema de arquivos.
     - `cd ..` Navega para diretório anterior.
